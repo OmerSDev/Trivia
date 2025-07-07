@@ -1,0 +1,112 @@
+{
+    "Questions": [
+        {
+            "question": "What is the capital of France?",
+            "answers": [
+                        "Berlin",
+                        "Madrid",
+                        "Paris",
+                        "Rome"
+                        ],
+            "correctAnswer": 3
+
+        },
+        {
+            "question": "What does VR stand for?",
+            "answers": [
+                        "Very Rare",
+                        "Virtual Reality",
+                        "Vacant Room",
+                        "Voting Restrictions"
+                        ],
+            "correctAnswer": 2
+
+        },
+        {
+            "question": "What is the official language of Brazil?",
+            "answers": [
+                        "English",
+                        "Spanish",
+                        "Turkish",
+                        "Portuguese"
+                        ],
+            "correctAnswer": 4
+
+        },
+        {
+           "question": "What does PC stand for?",
+            "answers": [
+                        "Precut Cucumber",
+                        "Personal Computer",
+                        "Paris Communications",
+                        "Personal Compartment"
+                        ],
+            "correctAnswer": 2
+
+        },
+        {
+            "question": "How many letters are in the English Alphabet?",
+            "answers": [
+                        "26",
+                        "22",
+                        "24",
+                        "21"
+                        ],
+            "correctAnswer": 1
+
+        },
+        {
+            "question": "Which country flag is made of 2 triangles?",
+            "answers": [
+                        "Germany",
+                        "Israel",
+                        "Azerbaijan",
+                        "Nepal"
+                        ],
+            "correctAnswer": 4
+
+        },
+        {
+            "question": "How many legs do spiders have?",
+            "answers": [
+                        "6",
+                        "12",
+                        "10",
+                        "8"
+                        ],
+            "correctAnswer": 4
+
+        },
+        {
+            "question": "What month was israel founded in?",
+            "answers": [
+                        "June",
+                        "December",
+                        "May",
+                        "January"
+                        ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "What year was C++ created in?",
+            "answers": [
+                        "1981",
+                        "2002",
+                        "1979",
+                        "1994"
+                        ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "How many sides does a hexagon have?",
+            "answers": [
+                        "6",
+                        "5",
+                        "8",
+                        "7"
+                        ],
+            "correctAnswer": 1
+        }
+
+    ]
+}

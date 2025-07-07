@@ -1,0 +1,3 @@
+﻿  Room.cpp
+C:\Users\user\Desktop\שיעורי בית c++\trivia_guy_omer\Trivia\Room.h(21,14): warning C4091: 'static ': ignored on left of 'Room' when no variable is declared
+  Trivia.vcxproj -> C:\Users\user\Desktop\שיעורי בית c++\trivia_guy_omer\Trivia\x64\Debug\Trivia.exe

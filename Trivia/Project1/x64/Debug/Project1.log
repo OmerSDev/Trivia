@@ -1,0 +1,54 @@
+﻿  CallbackFuncs.cpp
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\CallbackFuncs.cpp(24,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Helper.cpp
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\Helper.cpp(29,68): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\Helper.cpp(30,67): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\Helper.cpp(31,62): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\Helper.cpp(73,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  JsonRequestPacketDeserializer.cpp
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\Room.h(19,14): warning C4091: 'static ': ignored on left of 'Room' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\JsonResponsePacketSerializer.h(64,14): warning C4091: 'static ': ignored on left of 'JsonResponsePacketSerializer' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\RoomManager.h(10,14): warning C4091: 'static ': ignored on left of 'RoomManager' when no variable is declared
+  JsonResponsePacketSerializer.cpp
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\Room.h(19,14): warning C4091: 'static ': ignored on left of 'Room' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\JsonResponsePacketSerializer.h(64,14): warning C4091: 'static ': ignored on left of 'JsonResponsePacketSerializer' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\JsonResponsePacketSerializer.cpp(132,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LoggedUser.cpp
+  LoginManager.cpp
+  LoginRequestHandler.cpp
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\Room.h(19,14): warning C4091: 'static ': ignored on left of 'Room' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\JsonResponsePacketSerializer.h(64,14): warning C4091: 'static ': ignored on left of 'JsonResponsePacketSerializer' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\RoomManager.h(10,14): warning C4091: 'static ': ignored on left of 'RoomManager' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\LoginRequestHandler.cpp(33,38): warning C4101: 'e': unreferenced local variable
+  MenuRequestHandler.cpp
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\Room.h(19,14): warning C4091: 'static ': ignored on left of 'Room' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\JsonResponsePacketSerializer.h(64,14): warning C4091: 'static ': ignored on left of 'JsonResponsePacketSerializer' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\RoomManager.h(10,14): warning C4091: 'static ': ignored on left of 'RoomManager' when no variable is declared
+  Question.cpp
+  RequestHandlerFactory.cpp
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\Room.h(19,14): warning C4091: 'static ': ignored on left of 'Room' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\JsonResponsePacketSerializer.h(64,14): warning C4091: 'static ': ignored on left of 'JsonResponsePacketSerializer' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\RoomManager.h(10,14): warning C4091: 'static ': ignored on left of 'RoomManager' when no variable is declared
+  Room.cpp
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\Room.h(19,14): warning C4091: 'static ': ignored on left of 'Room' when no variable is declared
+  RoomManager.cpp
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\Room.h(19,14): warning C4091: 'static ': ignored on left of 'Room' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\RoomManager.h(10,14): warning C4091: 'static ': ignored on left of 'RoomManager' when no variable is declared
+  Server.cpp
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\Room.h(19,14): warning C4091: 'static ': ignored on left of 'Room' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\JsonResponsePacketSerializer.h(64,14): warning C4091: 'static ': ignored on left of 'JsonResponsePacketSerializer' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\RoomManager.h(10,14): warning C4091: 'static ': ignored on left of 'RoomManager' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\Server.cpp(102,9): warning C4244: 'initializing': conversion from 'const SOCKET' to 'int', possible loss of data
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\Server.cpp(125,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\Room.h(19,14): warning C4091: 'static ': ignored on left of 'Room' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\JsonResponsePacketSerializer.h(64,14): warning C4091: 'static ': ignored on left of 'JsonResponsePacketSerializer' when no variable is declared
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\RoomManager.h(10,14): warning C4091: 'static ': ignored on left of 'RoomManager' when no variable is declared
+  SqliteDatabase.cpp
+  StatisticsManager.cpp
+  WSAInitializer.cpp
+  Generating Code...
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\SqliteDatabase.cpp(49,1): warning C4715: 'SqliteDatabase::createTables': not all control paths return a value
+C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\RoomManager.cpp(33,1): warning C4715: 'RoomManager::getRoom': not all control paths return a value
+  sqlite3.c
+  Project1.vcxproj -> C:\Users\user\Desktop\v2.0.1\trivia_2024_ron_naor-v2.0.1\Project1\x64\Debug\Project1.exe

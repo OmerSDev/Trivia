@@ -1,0 +1,20 @@
+﻿Client
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\user\Desktop\שיעורי בית c++\trivia_guy_omer\client\WpfApp1\obj\Debug\net8.0-windows\
+Client
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\user\Desktop\שיעורי בית c++\trivia_guy_omer\client\WpfApp1\App.xaml
+101035907868
+
+17-1154965684
+199838766389
+AdminRoom.xaml;CreateRoom.xaml;JoinRoom.xaml;LeaderBoard.xaml;Login.xaml;Menu.xaml;Personal_Stats.xaml;SignUp.xaml;Statistics.xaml;WaitingRoom.xaml;
+
+False
+
